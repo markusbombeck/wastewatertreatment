@@ -4,7 +4,7 @@
 #This temporary control program ran successfully by a Raspberry Pi Zero WH 
 #connected to a LOW-Triggered relais board from May until July 2022.
 #With many thanks to Ludwig, Calvin, Kurt and Christoph for their hardware support, 
-#the friendly commitment and that tried it with me and this program!
+#the friendly commitment and that you tried it with me and this program!
 
 import time
 import tkinter
