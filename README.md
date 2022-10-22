@@ -1,2 +1,2 @@
 # wastewatertreatment
-control system for emergency or temporarily wastewater treatment plant
+control system for emergency or temporary wastewater treatment plant
